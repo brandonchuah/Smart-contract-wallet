@@ -1,2 +1,3 @@
 # Smart-contract-wallet
-A smart contract wallet with 2FA functionality enabled
+Smart contract code for a smart contract wallet with 2FA functionality enabled
+
